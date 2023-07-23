@@ -1,12 +1,11 @@
 
-<h1 align="center">Hi 👋, I'm Kanan Karimli</h1>
-<h3 align="center">A passionate frontend developer from Azerbaijan</h3>
+<h1 align="center">Hey there! 👋 I'm Kanan Karimli</h1>
+<h3 align="center">A Creative Frontend Wizard</h3>
+<p align="center">Greetings, fellow developers and digital enthusiasts! I'm Kanan Karimli, a passionate frontend developer on a quest to craft captivating user experiences and bring digital dreams to life.</p>
+🌱 Currently, I'm on an adventurous journey of mastering React to wield the full potential of frontend magic.
 
-- 🌱 I’m currently learning **React**
+📫 Want to collaborate on exciting projects or just say hi? Reach out to me at kanankarimli7770@gmail.com. I'm always up for a chat!
 
-- 📫 How to reach me **kanankarimli7770@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/@kanankarim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@kanankarim" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/kanan karimli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kanan karimli" height="30" width="40" /></a>
@@ -21,4 +20,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kanankarim&show_icons=true&locale=en" alt="kanankarim" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kanankarim&" alt="kanankarim" /></p>
+
 
