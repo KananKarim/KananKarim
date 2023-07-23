@@ -10,14 +10,6 @@
     <p align="center">
   <img alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 </p>
-    <div style="margin-left: 20px;">
-        <h3>Connect With Me:</h3>
-        <p>
-            <a href="https://codepen.io/@kanankarim" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@kanankarim" height="30" width="40" /></a>
-            <a href="https://linkedin.com/in/kanan karimli" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kanan karimli" height="30" width="40" /></a>
-            <a href="https://instagram.com/kanankarimlii" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kanankarimlii" height="30" width="40" /></a>
-        </p>
-    </div>
 </div>
 
 
