@@ -27,9 +27,9 @@
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kanankarim&" alt="kanankarim" />
-  <img src="https://github-readme-stats.vercel.app/api?username=kanankarim&show_icons=true&locale=en" alt="kanankarim" />
-  <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kanankarim&show_icons=true&locale=en&layout=compact" alt="kanankarim" />
+  <br>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kanankarim&show_icons=true&locale=en" alt="kanankarim" />
 </div>
 
 
